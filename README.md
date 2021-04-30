@@ -9,4 +9,4 @@ https://github.com/facebook/rocksdb/wiki/Benchmarking-tools
 db_bench_tool.cc is the main db_bench file. In addition to the original benchmarks,
 some YCSB workloads are also added in this repository.
 
-If you happen to encounter some Windows line ending issues on a Mac. Please "clean" those files and you are good to go.
+If you happen to encounter some Windows line ending issues on a Mac, please "clean" those files and you are good to go.
